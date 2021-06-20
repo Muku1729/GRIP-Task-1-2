@@ -1,2 +1,2 @@
-# GRIP-Task2
-Prediction Using Unsupervised Machine Learning
+# GRIP-Task1,2
+Prediction Using Supervised & Unsupervised Machine Learning
