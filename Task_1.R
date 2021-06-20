@@ -1,3 +1,7 @@
+#The Sparks Foundation 
+#Predicting Score of Student Using Supervised ML.
+#TASK - 1 (GRIP)
+#Name : Mukesh Dhariwal
 #Importing Library to be Used--->
 library(ggplot2)
 #Importing the data--->
